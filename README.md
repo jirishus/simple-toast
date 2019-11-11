@@ -1,4 +1,6 @@
-# CheeseToast
+# SimpleToast
+
+This repo is a very simple setup of bootstrap's toast notifications. The toast example provided in the documentation is implemented using a custom global module and I wanted something that would be easier to integrate with pre-existing angular projects.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
